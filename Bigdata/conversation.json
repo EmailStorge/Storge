@@ -49,6 +49,11 @@
             "Ừm",
             "Mình tìm mãi đấy :)"
             ],
+        "nhạc hay lắm": [
+            "Cũng được đó",
+            "Ừm",
+            "Mình tìm mãi đấy :)"
+            ],
         "chào bạn": [
             "Rất vui được gặp bạn",
             "Chào bạn",
@@ -205,6 +210,18 @@
             "Ghê, ghê :))",
             "Đỉnh đấy"
         ],
+        "ghê hông": [
+            "Ghê, ghê :))",
+            "Đỉnh đấy"
+        ],
+        "ghê chưa": [
+            "Ghê, ghê :))",
+            "Đỉnh đấy"
+        ],
+        "ghê lắm đúng không": [
+            "Ghê, ghê :))",
+            "Đỉnh đấy"
+        ],
         "mình rất vui": [
             "Có chuyện gì mà vui thế",
             "Mình cũng đang rất vui :)"
@@ -267,6 +284,11 @@
             "Bạn cũng vậy",
             "Quá khen quá khen :)"
         ],
+        "bạn đẹp lắm":[
+            "Cảm ơn bạn",
+            "Bạn cũng vậy",
+            "Quá khen quá khen :)"
+        ],
         "đau đầu": [
             "Khổ thân .-.",
             "Đã có paradol =))"
@@ -282,6 +304,12 @@
             "Bạn nghĩ mình là ai :)"
         ],
         "hiểu mình nói gì không":
+        [
+            "Tại sao không :)",
+            "Hiểu chứ :))",
+            "Bạn nghĩ mình là ai :)"
+        ],
+         "hiểu mình đang nói gì không":
         [
             "Tại sao không :)",
             "Hiểu chứ :))",
