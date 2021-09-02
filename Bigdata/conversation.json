@@ -530,28 +530,79 @@
             "dongthap"
         ],
         "bacgiang":[
-            "bắc giang"
+            "bắc giang",
+            "bac giang",
+            "băc giang",
+            "bác giang",
+            "b.giang",
+            "b. giang",
+            "bac.g",
+            "bắc.g",
+            "bắc. giang"
         ],
         "tayninh": [
-            "tây ninh"
+            "tây ninh",
+            "tay ninh",
+            "t. ninh",
+            "tây ning",
+            "tay ning",
+            "t.ninh",
+            "t.ning",
+            "t. ning"
         ],
         "danang": [
-            "đà nẵng"
+            "đà nẵng",
+            "da nang",
+            "d.nang",
+            "d. nang",
+            "đà nang",
+            "da nẵng",
+            "d.nẵng",
+            "đà.nẵng",
+            "d. nẵng"
         ],
         "cantho": [
-            "cần thơ"
+            "cần thơ",
+            "cần tho",
+            "can tho",
+            "c. tho",
+            "can thơ",
+            "c.tho",
+            "c. thơ",
+            "c. tho"
         ],
         "hanoi": [
-            "hà nội"
+            "hà nội",
+            "hà lội",
+            "h. nội",
+            "h.nội",
+            "ha noi",
+            "hanoi"
         ],
         "baria":[
             "bà rịa - vũng tàu",
             "bà rịa",
             "vũng tàu",
-            "bà rịa vũng tàu"
+            "bà rịa vũng tàu",
+            "ba ria",
+            "vung tau",
+            "briavtau",
+            "b.ria - v.tau",
+            "b.ria",
+            "v.tau",
+            "b.rịa",
+            "v.tàu"
         ],
         "phuyen":[
-            "phú yên"
+            "phú yên",
+            "p.yên",
+            "p yen",
+            "p. yên",
+            "p yên",
+            "p.y",
+            "p.yen",
+            "p. yen",
+            "phu yen"
         ],
         "binhthuan": [
             "bình thuận"
@@ -612,40 +663,71 @@
         "hatinh": [
             "hà tĩnh"
         ],
-        "binhphuoc":["bình phước"],
-        "quangbinh":["quảng bình"],
-        "hungyen":["hưng yên"],
-        "thanhhoa":["thanh hóa"],
-        "daknong":["đắk nông"],
-        "vinhphuc":["vĩnh phúc"],
-        "lamdong":["lâm đồng"],
-        "baclieu":["bạc liêu"],
-        "langson":["lạng sơn"],
-        "sonla":["sơn la"],
-        "ninhbinh":["ninh bình"],
-        "camau":["cà mau"],
-        "thaibinh":["thái bình"],
-        "quangtri":["quảng trị"],
-        "quangninh":["quảng ninh"],
-        "laocai":["lào cai"],
-        "hanam":["hà nam"],
-        "dienbien":["điện biên"],
-        "haiphong":["hải phòng"],
-        "namdinh":["nam định"],
-        "hoabinh":["hòa bình"],
-        "phutho":["phú thọ"],
-        "hagiang":["hà giang"],
-        "thainguyen":["thái nguyên"],
-        "kontum":["kon tum"],
-        "backan":["bắc kạn"],
-        "yenbai":["yên bái"],
-        "tuyenquang":["tuyên quang"],
-        "laichau":["lai châu"],
-        "caobang":["cao bằng"]
+        "binhphuoc":[
+            "bình phước"
+        ],
+        "quangbinh":[
+            "quảng bình"],
+        "hungyen":[
+            "hưng yên"],
+        "thanhhoa":[
+            "thanh hóa"],
+        "daknong":[
+            "đắk nông"],
+        "vinhphuc":[
+            "vĩnh phúc"],
+        "lamdong":[
+            "lâm đồng"],
+        "baclieu":[
+            "bạc liêu"],
+        "langson":[
+            "lạng sơn"],
+        "sonla":[
+            "sơn la"],
+        "ninhbinh":[
+            "ninh bình"],
+        "camau":[
+            "cà mau"],
+        "thaibinh":[
+            "thái bình"],
+        "quangtri":[
+            "quảng trị"],
+        "quangninh":[
+            "quảng ninh"],
+        "laocai":[
+            "lào cai"],
+        "hanam":[
+            "hà nam"],
+        "dienbien":[
+            "điện biên"],
+        "haiphong":[
+            "hải phòng"],
+        "namdinh":[
+            "nam định"],
+        "hoabinh":[
+            "hòa bình"],
+        "phutho":[
+            "phú thọ"],
+        "hagiang":[
+            "hà giang"],
+        "thainguyen":[
+            "thái nguyên"],
+        "kontum":[
+            "kon tum"],
+        "backan":[
+            "bắc kạn"],
+        "yenbai":[
+            "yên bái"],
+        "tuyenquang":[
+            "tuyên quang"],
+        "laichau":[
+            "lai châu"],
+        "caobang":[
+            "cao bằng"]
         },
         "google": 
         {
-            "": ["cho mình", "hộ mình","giúp mình", "từ khóa", "chữ"]
+            "": ["cho mình", "hộ mình","giúp mình", "từ khóa", "chữ", "từ này"]
         }
     }
 }	
