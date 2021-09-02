@@ -19,6 +19,15 @@
             "Bạn cần gì, để mình giúp bạn?",
             "Có chuyện gì không bạn?"
         ],
+        "lô": [
+            "Rất vui được gặp bạn",
+            "Chào bạn",
+            "Hân hạnh được gặp bạn",
+            "Chúc bạn một ngày tốt lành",
+            "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
+            "Bạn cần gì, để mình giúp bạn?",
+            "Có chuyện gì không bạn?"
+        ],
         "chào bạn": [
             "Rất vui được gặp bạn",
             "Chào bạn",
@@ -45,6 +54,12 @@
         ],
         "hola": [
             "HALO"
+        ],
+        "chào cưng": [
+            "Hello cưng :3",
+            "Chào baby :3",
+            "Trợ lí ảo siêu cấp thông minh của bạn đây :3",
+            "Có chuyện gì hông dợ :3"
         ],
         "cảm ơn": [
             "Không có gì, đó là trách nhiệm của mình",
@@ -182,6 +197,18 @@
             "Mình bị sao à?",
             "Điệu cười bi oi :)"
         ],
+        ":)": [
+            ":)))))",
+            "=))",
+            "Lmao",
+            "Ý gì đây ta :)"
+            ],
+        "=)": [
+            ":)))))",
+            "=))",
+            "dank' wa'",
+            "Ý gì vậy cà :)"
+            ],
         "haha": [
             "hah :)",
             "hahahaha=))",
@@ -296,7 +323,12 @@
             "covid 19",
             "cô vy",
             "cô rô na",
-            "sar cô vy"
+            "sar cô vy",
+            "tình hình dịch",
+            "dịch tại",
+            "dịch ở",
+            "dịch tình hình",
+            "tinh hinh dich"
         ],
         "today": [
             "hôm nay",
