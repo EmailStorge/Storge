@@ -93,7 +93,6 @@
         "hola": [
             "HALO"
         ],
-        "dịch": ["Dịch bệnh hay dịch?"],
         "chào cưng": [
             "Hello cưng :3",
             "Chào baby :3",
@@ -435,7 +434,8 @@
             "gg dịch",
             "dich",
             "dỉch",
-            "dĩch"
+            "dĩch",
+            "dịch"
         ],
         "nhạc": [
             "bật nhạc",
@@ -606,125 +606,203 @@
             "phu yen"
         ],
         "binhthuan": [
-            "bình thuận"
+            "bình thuận",
+            "binh thuan"
         ],
         "vinhlong": [
-            "vĩnh long"
+            "vĩnh long",
+            "vinh long"
         ],
         "angiang": [
-            "an giang"
+            "an giang",
+            "a.giang"
         ],
         "bacninh": [
-            "bắc ninh"
+            "bắc ninh",
+            "bac ninh"
         ],
         "bentre": [
-            "bến tre"
+            "bến tre",
+            "ben tre"
         ],
         "kiengiang": [
-            "kiên giang"
+            "kiên giang",
+            "kien giang"
         ],
         "nghean": [
-            "nghệ an"
+            "nghệ an",
+            "nghe an"
         ],
         "travinh": [
-            "trà vinh"
+            "trà vinh",
+            "tra vinh"
         ],
         "haiduong": [
-            "hải dương"
+            "hải dương",
+            "hai duong"
         ],
         "daklak": [
-            "đắk lắk"
+            "đắk lắk",
+            "dak lak"
         ],
         "soctrang": [
-            "sóc trăng"
+            "sóc trăng",
+            "soc trang"
         ],
         "ninhthuan": [
-            "ninh thuận"
+            "ninh thuận",
+            "ninh thuan"
         ],
         "binhdinh": [
-            "bình định"
+            "bình định",
+            "binh dinh"
         ],
         "quangnam":[
-            "quảng nam"
+            "quảng nam",
+            "quang nam"
         ],
         "quangngai": [
-            "quảng ngãi"
+            "quảng ngãi",
+            "quang ngai"
         ],
         "thuathienhue":
         [
             "thừa thiên huế",
-            "huế"
+            "huế",
+            "hue",
+            "thua thien hue"
         ],
         "gialai": [
             "gia lai"
         ],
         "haugiang": [
-            "hậu giang"
+            "hậu giang",
+            "hau giang"
         ],
         "hatinh": [
-            "hà tĩnh"
+            "hà tĩnh",
+            "ha tinh"
         ],
         "binhphuoc":[
-            "bình phước"
+            "bình phước",
+            "binh phuoc"
         ],
         "quangbinh":[
-            "quảng bình"],
+            "quảng bình",
+            "quang binh"
+        ],
         "hungyen":[
-            "hưng yên"],
+            "hưng yên",
+            "hung yen"
+        ],
         "thanhhoa":[
-            "thanh hóa"],
+            "thanh hóa",
+            "thanh hoa"
+        ],
         "daknong":[
-            "đắk nông"],
+            "đắk nông",
+            "dak nong"
+        ],
         "vinhphuc":[
-            "vĩnh phúc"],
+            "vĩnh phúc",
+            "vinh phuc"
+        ],
         "lamdong":[
-            "lâm đồng"],
+            "lâm đồng",
+            "lam dong"
+        ],
         "baclieu":[
-            "bạc liêu"],
+            "bạc liêu",
+            "bac lieu"
+        ],
         "langson":[
-            "lạng sơn"],
+            "lạng sơn",
+            "lang son"
+        ],
         "sonla":[
-            "sơn la"],
+            "sơn la",
+            "son la"
+        ],
         "ninhbinh":[
-            "ninh bình"],
+            "ninh bình",
+            "ninh binh"
+        ],
         "camau":[
-            "cà mau"],
+            "cà mau",
+            "ca mau"
+        ],
         "thaibinh":[
-            "thái bình"],
+            "thái bình",
+            "thai binh"
+        ],
         "quangtri":[
-            "quảng trị"],
+            "quảng trị",
+            "quang tri"
+        ],
         "quangninh":[
-            "quảng ninh"],
+            "quảng ninh",
+            "quang ninh"
+        ],
         "laocai":[
-            "lào cai"],
+            "lào cai",
+            "lao cai"
+        ],
         "hanam":[
-            "hà nam"],
+            "hà nam",
+            "ha nam"
+        ],
         "dienbien":[
-            "điện biên"],
+            "điện biên",
+            "dien bien"
+        ],
         "haiphong":[
-            "hải phòng"],
+            "hải phòng",
+            "hai phong"
+        ],
         "namdinh":[
-            "nam định"],
+            "nam định",
+            "nam dinh"
+        ],
         "hoabinh":[
-            "hòa bình"],
+            "hòa bình",
+            "hoa binh"
+        ],
         "phutho":[
-            "phú thọ"],
+            "phú thọ",
+            "phu tho"
+        ],
         "hagiang":[
-            "hà giang"],
+            "hà giang",
+            "ha giang"
+        ],
         "thainguyen":[
-            "thái nguyên"],
+            "thái nguyên",
+            "thai nguyen"
+        ],
         "kontum":[
-            "kon tum"],
+            "kon tum",
+            "kon tum"
+        ],
         "backan":[
-            "bắc kạn"],
+            "bắc kạn",
+            "bac kan"
+        ],
         "yenbai":[
-            "yên bái"],
+            "yên bái",
+            "yen bai"
+        ],
         "tuyenquang":[
-            "tuyên quang"],
+            "tuyên quang",
+            "tuyen quang"
+        ],
         "laichau":[
-            "lai châu"],
+            "lai châu",
+            "lai chau"
+        ],
         "caobang":[
-            "cao bằng"]
+            "cao bằng",
+            "cao bang"
+        ]
         },
         "google": 
         {
