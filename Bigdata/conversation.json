@@ -1,0 +1,548 @@
+{
+    "__comment__": "Đây là để app nói chuyện với người dùng, thêm sửa là việc của a =))",
+    "Chào hỏi": {
+        "xin chào": [
+            "Rất vui được gặp bạn",
+            "Chào bạn",
+            "Hân hạnh được gặp bạn",
+            "Chúc bạn một ngày tốt lành",
+            "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
+            "Bạn cần gì, để mình giúp bạn?",
+            "Có chuyện gì không bạn?"
+        ],
+        "chào": [
+            "Rất vui được gặp bạn",
+            "Chào bạn",
+            "Hân hạnh được gặp bạn",
+            "Chúc bạn một ngày tốt lành",
+            "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
+            "Bạn cần gì, để mình giúp bạn?",
+            "Có chuyện gì không bạn?"
+        ],
+        "chào bạn": [
+            "Rất vui được gặp bạn",
+            "Chào bạn",
+            "Hân hạnh được gặp bạn",
+            "Chúc bạn một ngày tốt lành",
+            "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
+            "Bạn cần gì, để mình giúp bạn?",
+            "Có chuyện gì không bạn?"
+        ],
+        "hello": [
+            "Rất vui được gặp bạn",
+            "Chào bạn",
+            "Hân hạnh được gặp bạn",
+            "Chúc bạn một ngày tốt lành",
+            "Chào bạn, mình là trợ lí ảo siêu cấp thông minh",
+            "Bạn cần gì, để mình giúp bạn",
+            "Có chuyện gì không bạn?"
+        ],
+        "hello baby": [
+            "Hello :3",
+            "Chào bạn yêu quý :3",
+            "Trợ lí ảo siêu cấp thông minh của bạn đây :3",
+            "Có chuyện gì hông :3"
+        ],
+        "hola": [
+            "HALO"
+        ],
+        "cảm ơn": [
+            "Không có gì, đó là trách nhiệm của mình",
+            "Đừng khách sáo mà",
+            "Chuyện cỏn con ấy mà"
+        ],
+        "xin lỗi": [
+            "Bạn không làm gì sai cả",
+            "Bạn không có lỗi đâu",
+            "Đừng xin lỗi, mình mới là người sai chứ"
+        ],
+        "lỗi mình": [
+            "Bạn không làm gì sai cả",
+            "Bạn không có lỗi đâu",
+            "Đừng xin lỗi, mình mới là người sai chứ"
+        ],
+        "lỗi tại mình": [
+            "Bạn không làm gì sai cả",
+            "Bạn không có lỗi đâu",
+            "Đừng xin lỗi, mình mới là người sai chứ"
+        ],
+        "lỗi của mình": [
+            "Bạn không làm gì sai cả",
+            "Bạn không có lỗi đâu",
+            "Đừng xin lỗi, mình mới là người sai chứ"
+        ],
+        "bạn hay thật đấy": [
+            "Hì hì, quá khen",
+            "Bạn cũng giỏi đấy chứ",
+            "Mình cũng thường thôi",
+            "Nhiêu đây có là chi"
+        ],
+        "bạn giỏi quá": [
+            "Hì hì, quá khen",
+            "Bạn cũng giỏi đấy chứ",
+            "Mình cũng thường thôi",
+            "Nhiêu đây có là chi"
+        ],
+        "bạn giỏi thật": [
+            "Hì hì, quá khen",
+            "Bạn cũng giỏi đấy chứ",
+            "Mình cũng thường thôi",
+            "Nhiêu đây có là chi"
+        ],
+        "bạn tệ": [
+            "Mình đã cố gắng hết sức mà",
+            "Mình sẽ cố gắng thêm",
+            "Huhu"
+        ],
+        "bạn thật tệ": [
+            "Mình đã cố gắng hết sức mà",
+            "Mình sẽ cố gắng thêm",
+            "Huhu"
+        ],
+        "tệ": [
+            "Mình đã cố gắng hết sức mà",
+            "Mình sẽ cố gắng thêm",
+            "Huhu"
+        ],
+        "bạn ghê thiệt": [
+            "Hì hì, quá khen",
+            "Bạn cũng giỏi đấy chứ",
+            "Mình cũng thường thôi",
+            "Nhiêu đây có là chi"
+        ],
+        "mày ghê đấy": [
+            "Hì hì, quá khen",
+            "Bạn cũng giỏi đấy chứ",
+            "Mình cũng thường thôi",
+            "Nhiêu đây có là chi"
+        ],
+        "bạn còn non": [
+            "Bạn mới là còn non ấy",
+            "Hứ, giận luôn",
+            "Bạn được lắm, đợi đấy",
+            "Còn bạn thì sao?",
+            "Bạn thì giỏi lắm ấy"
+        ],
+        "trời đẹp": [
+            "Đúng là đẹp thật nhỉ",
+            "Và cả bạn nữa"
+        ],
+        "vui quá": [
+            "Bạn vui là tốt rồi",
+            "Mình cũng đang vui đây",
+            "Bạn vui chuyện gì vậy"
+        ],
+        "bạn thế nào": [
+            "Mình khỏe, còn bạn?",
+            "Khỏe như bao ngày",
+            "Rất vui"
+        ],
+        "buồn":
+        [
+            "Sao lại buồn thế?",
+            "Tội nghiệp :)",
+            "Bạn thất tình à?"
+        ],
+        "mình bị câm": [
+            "Ôi bạn tôi :))",
+            "Tội nghiệp bạn tôi :))",
+            "Về chữa đi rồi nói chuyện với mình :))"
+        ],
+        "bạn thấy sao": [
+            "Ừm, cũng được",
+            "Bạn giỏi thật đấy :)",
+            "Giá như mình được như bạn"
+        ],
+        "ghê không": [
+            "Ghê, ghê :))",
+            "Đỉnh đấy"
+        ],
+        "mình rất vui": [
+            "Có chuyện gì mà vui thế",
+            "Mình cũng đang rất vui :)"
+        ],
+        "mình rất buồn": [
+            "Sao vậy??",
+            "Bạn mệt hả?"
+        ],
+        "yeah": [
+            ":))",
+            "=))",
+            ":)",
+            "=)",
+            ":')",
+            ";)",
+            ";=))",
+            ":=))"
+        ],
+        "hehe": [
+            "Bạn cười gì vậy?",
+            "Cười đểu vờ lờ :)",
+            "HEH",
+            "Mình bị sao à?",
+            "Điệu cười bi oi :)"
+        ],
+        "haha": [
+            "hah :)",
+            "hahahaha=))",
+            "Im lặng chút coi, mình đang xem phim .-.",
+            "Bạn cười to quá đấy, ông hàng xóm bên mình thức dậy rồi kìa .-."
+        ],
+        "hah": [
+            "bủh bủh lmao :)",
+            "dảk wa'"
+        ],
+        "bạn đẹp":[
+            "Cảm ơn bạn",
+            "Bạn cũng vậy",
+            "Quá khen quá khen :)"
+        ],
+        "đau đầu": [
+            "Khổ thân .-.",
+            "Đã có paradol =))"
+        ],
+        "đau mắt": [
+            "Bạn lại xem bậy bạ à =))",
+            "Hỏng hỏng"
+        ],
+        "hiểu không mà cười":
+        [
+            "Tại sao không :)",
+            "Hiểu chứ :))",
+            "Bạn nghĩ mình là ai :)"
+        ],
+        "hiểu mình nói gì không":
+        [
+            "Tại sao không :)",
+            "Hiểu chứ :))",
+            "Bạn nghĩ mình là ai :)"
+        ],
+        "hiểu t nói gì không":
+        [
+            "Tại sao không :)",
+            "Hiểu chứ :))",
+            "Bạn nghĩ mình là ai :)"
+        ],
+        "hiểu gì": [
+            "Ai biết",
+            "Sao hỏi mình :)",
+            "Huh?"
+        ]
+    },
+    "__comment_2__": "Lâu lâu ng ta hỏi m làm dc gì thì máy còn biết =))",
+    "Năng lực": {
+        "dùng thế nào":
+        [
+            "Bạn nói gì, mình làm đấy, hỏi nhiều",
+            "Chạy theo lập trình viên muốn",
+            "Bạn cứ thoải mái thử nghiệm là biết",
+            "Chạy đi rồi biết"
+        ],
+        "dùng như nào":
+        [
+            "Bạn nói gì, mình làm đấy, hỏi nhiều",
+            "Chạy theo lập trình viên muốn",
+            "Bạn cứ thoải mái thử nghiệm là biết",
+            "Chạy đi rồi biết"
+        ],
+        "ai lập trình":
+        [
+            "Về phần phản hồi, đồ họa và một số công cụ thì mình được Hiếu làm, còn lại công cụ và một số khác là do Thịnh làm. Ghé thăm lập trình viên Hiếu tại https://fb.com/py.hacker.hieu."
+        ],
+        "lập trình viên":
+        [
+            "Về phần phản hồi, đồ họa và một số công cụ thì mình được Hiếu làm, còn lại công cụ và một số khác là Thịnh làm. Ghé thăm lập trình viên Hiếu tại https://fb.com/py.hacker.hieu."
+        ]
+    },
+    "__comment_3__": "Cái này là data, thay đổi có chủ đích",
+    "Data": {
+        "tải video": 
+        [
+            "tải phim",
+            "down phim",
+            "tải video",
+            "download phim",
+            "down film"
+        ],
+        "tải tệp":
+        [
+            "tải tệp",
+            "tải tệp tin",
+            "tải thông tin",
+            "tải file",
+            "download file",
+            "down file"
+        ],
+        "tải file":
+        [
+            "Ném mình cái link, giao hàng tận nơi cho bạn liền",
+            "Đợi một chút..."
+        ],
+        "google":
+        [
+            "google",
+            "tìm kiếm",
+            "search",
+            "tìm hộ",
+            "tìm giúp"
+        ],
+        "covid":
+        [
+            "covid",
+            "cau vít",
+            "cô vít",
+            "cô vịt",
+            "cô viết",
+            "covid 19",
+            "cô vy",
+            "cô rô na",
+            "sar cô vy"
+        ],
+        "today": [
+            "hôm nay",
+            "mấy giờ",
+            "ngày mấy",
+            "mấy phút",
+            "mấy giây",
+            "tháng mấy",
+            "năm bao nhiêu",
+            "ngày giờ",
+            "phút giây",
+            "ngày tháng năm",
+            "ngày",
+            "tháng",
+            "năm",
+            "phút",
+            "giây"
+        ],
+        "dịch":
+        [
+            "khởi động dịch",
+            "dịch hộ mình",
+            "dịch giúp mình",
+            "dịch cho mình",
+            "bật dịch",
+            "dịch đi",
+            "dịch cái coi",
+            "start dịch",
+            "translate",
+            "gu gồ dịch",
+            "google dịch",
+            "gg dịch",
+            "dich",
+            "dỉch",
+            "dĩch"
+        ],
+        "nhạc": [
+            "bật nhạc",
+            "quẩy lên",
+            "khởi động nhạc",
+            "lên nhạc",
+            "nhạc đâu",
+            "nhac dau",
+            "bat nhac",
+            "len nhac",
+            "khoi dong nhac",
+            "quay len"
+        ]
+    },
+    "__comment_4__": "Cái này là để tìm kiếm thuận tiện hơn, no modify please :)",
+    "Used_word": {
+        "covid": 
+        {
+        "tphcm": [
+            "thành phố hồ chí minh",
+            "thành phố hcm",
+            "tp hồ chí minh",
+            "tp. hồ chí minh",
+            "tp.hồ chí minh",
+            "thànhphốhồchíminh",
+            "tp.hcm",
+            "tp. hcm",
+            "tphcm",
+            "hồ chí minh",
+            "hcm",
+            "hochiminh",
+            "thanhphohochiminh",
+            "tphochiminh",
+            "tp.hochiminh",
+            "tp. hochiminh"
+            ],
+        "binhduong": [
+            "bình dương",
+            "bình duong",
+            "tỉnh bình dương",
+            "tỉnh bình duong",
+            "binhduong",
+            "binh duong",
+            "tinh binh duong",
+            "bìnhduong",
+            "bìnhdương"
+        ],
+        "dongnai": [
+            "đồng nai",
+            "đồngnai",
+            "dongnai",
+            "dong nai"
+        ],
+        "longan": [
+            "long an",
+            "longan",
+            "la",
+            "loan",
+            "lgan",
+            "l.an",
+            "l. an",
+            "l.a"
+        ],
+        "tiengiang": [
+            "tiền giang",
+            "tiền g",
+            "t.giang",
+            "tien giang",
+            "t.g",
+            "t. g",
+            "t. giang",
+            "tiên giang"
+        ],
+        "khanhhoa": [
+            "khánh hòa",
+            "khanh hòa",
+            "khanh hoa",
+            "khánh hoa",
+            "khanhhoa",
+            "k.hoa",
+            "k.hòa",
+            "k. hoa",
+            "k. hòa"
+        ],
+        "dongthap": [
+            "đồng tháp",
+            "dong thap",
+            "đ. tháp",
+            "đ.tháp",
+            "d.thap",
+            "đồng thap",
+            "dong tháp",
+            "dongthap"
+        ],
+        "bacgiang":[
+            "bắc giang"
+        ],
+        "tayninh": [
+            "tây ninh"
+        ],
+        "danang": [
+            "đà nẵng"
+        ],
+        "cantho": [
+            "cần thơ"
+        ],
+        "hanoi": [
+            "hà nội"
+        ],
+        "baria":[
+            "bà rịa - vũng tàu",
+            "bà rịa",
+            "vũng tàu",
+            "bà rịa vũng tàu"
+        ],
+        "phuyen":[
+            "phú yên"
+        ],
+        "binhthuan": [
+            "bình thuận"
+        ],
+        "vinhlong": [
+            "vĩnh long"
+        ],
+        "angiang": [
+            "an giang"
+        ],
+        "bacninh": [
+            "bắc ninh"
+        ],
+        "bentre": [
+            "bến tre"
+        ],
+        "kiengiang": [
+            "kiên giang"
+        ],
+        "nghean": [
+            "nghệ an"
+        ],
+        "travinh": [
+            "trà vinh"
+        ],
+        "haiduong": [
+            "hải dương"
+        ],
+        "daklak": [
+            "đắk lắk"
+        ],
+        "soctrang": [
+            "sóc trăng"
+        ],
+        "ninhthuan": [
+            "ninh thuận"
+        ],
+        "binhdinh": [
+            "bình định"
+        ],
+        "quangnam":[
+            "quảng nam"
+        ],
+        "quangngai": [
+            "quảng ngãi"
+        ],
+        "thuathienhue":
+        [
+            "thừa thiên huế",
+            "huế"
+        ],
+        "gialai": [
+            "gia lai"
+        ],
+        "haugiang": [
+            "hậu giang"
+        ],
+        "hatinh": [
+            "hà tĩnh"
+        ],
+        "binhphuoc":["bình phước"],
+        "quangbinh":["quảng bình"],
+        "hungyen":["hưng yên"],
+        "thanhhoa":["thanh hóa"],
+        "daknong":["đắk nông"],
+        "vinhphuc":["vĩnh phúc"],
+        "lamdong":["lâm đồng"],
+        "baclieu":["bạc liêu"],
+        "langson":["lạng sơn"],
+        "sonla":["sơn la"],
+        "ninhbinh":["ninh bình"],
+        "camau":["cà mau"],
+        "thaibinh":["thái bình"],
+        "quangtri":["quảng trị"],
+        "quangninh":["quảng ninh"],
+        "laocai":["lào cai"],
+        "hanam":["hà nam"],
+        "dienbien":["điện biên"],
+        "haiphong":["hải phòng"],
+        "namdinh":["nam định"],
+        "hoabinh":["hòa bình"],
+        "phutho":["phú thọ"],
+        "hagiang":["hà giang"],
+        "thainguyen":["thái nguyên"],
+        "kontum":["kon tum"],
+        "backan":["bắc kạn"],
+        "yenbai":["yên bái"],
+        "tuyenquang":["tuyên quang"],
+        "laichau":["lai châu"],
+        "caobang":["cao bằng"]
+        },
+        "google": 
+        {
+            "": ["cho mình", "hộ mình","giúp mình", "từ khóa", "chữ"]
+        }
+    }
+}	
