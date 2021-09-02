@@ -44,6 +44,18 @@
             "Bạn cần gì, để mình giúp bạn?",
             "Có chuyện gì không bạn?"
         ],
+        "khỏe không bạn": [
+            "Mình khỏe, còn bạn?",
+            "Khỏe như bao ngày",
+            "Rất vui",
+            "Vẫn vui vẻ như ngày nào"
+            ],
+        "hôm nay thế nào": [
+            "Như bao ngày thôi bạn",
+            "Hừm, mình hôm nay khá vui",
+            "Vẫn thế bạn ạ",
+            "Mình ổn"
+            ],
         "hello": [
             "Rất vui được gặp bạn",
             "Chào bạn",
