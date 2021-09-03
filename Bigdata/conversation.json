@@ -445,7 +445,9 @@
             "thống kê ca nhiễm"
         ],
         "weather": [
-            "thời tiết hôm nay"
+            "thời tiết hôm nay",
+            "thời tiết",
+            "weather"
         ],
         "today": [
             "hôm nay",
