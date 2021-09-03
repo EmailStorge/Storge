@@ -96,12 +96,12 @@
         "chắc không": [
             "Mình không biết nữa",
             "Không rõ",
-            "Mình không biết
+            "Mình không biết"
         ],
         "chắc chưa": [
             "Mình không biết nữa",
             "Không rõ",
-            "Mình không biết
+            "Mình không biết"
         ],
         "chào cưng": [
             "Hello cưng :3",
@@ -354,6 +354,12 @@
             "Chạy đi rồi biết"
         ],
         "làm được gì" [
+            "Bạn nói gì, mình làm đấy, hỏi nhiều",
+            "Chạy theo lập trình viên muốn",
+            "Bạn cứ thoải mái thử nghiệm là biết",
+            "Chạy đi rồi biết"
+        ],
+        "làm được những gì" [
             "Bạn nói gì, mình làm đấy, hỏi nhiều",
             "Chạy theo lập trình viên muốn",
             "Bạn cứ thoải mái thử nghiệm là biết",
