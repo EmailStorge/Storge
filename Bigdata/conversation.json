@@ -444,6 +444,9 @@
             "ca nhiễm tại",
             "thống kê ca nhiễm"
         ],
+        "weather": [
+            "thời tiết hôm nay"
+        ],
         "today": [
             "hôm nay",
             "mấy giờ",
@@ -461,9 +464,7 @@
             "phút",
             "giây"
         ],
-        "weather": [
-            "thời tiết hôm nay"
-        ],
+        
         "dịch":
         [
             "khởi động dịch",
