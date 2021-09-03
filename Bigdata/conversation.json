@@ -856,7 +856,12 @@
             "": ["cho mình", "hộ mình","giúp mình", "từ khóa", "chữ", "từ này"]
         },
         "weather": {
-            "": ["tại", "ở", "địa điểm", "từ", "trong", "ngoài", "trên", "dưới"]
+            "noun": ["tại", "ở", "địa điểm", "từ", "trong", "ngoài", "trên", "dưới"],
+            "prod": 
+                {
+                    "Ho Chi Minh City": ["thành phố hồ chí minh", "tphcm", "tp hồ chí minh"],
+                    "Hanoi" : ["hà nội", "hanoi", "h. nội", "ha noi"]
+                }
         }
     }
 }	
