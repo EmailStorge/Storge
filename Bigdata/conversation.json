@@ -420,7 +420,8 @@
             "tìm kiếm",
             "search",
             "tìm hộ",
-            "tìm giúp"
+            "tìm giúp",
+            "gg"
         ],
         "covid":
         [
@@ -460,6 +461,9 @@
             "phút",
             "giây"
         ],
+        "weather": [
+            "thời tiết hôm nay"
+        ]
         "dịch":
         [
             "khởi động dịch",
