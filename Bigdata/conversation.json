@@ -854,6 +854,9 @@
         "google": 
         {
             "": ["cho mình", "hộ mình","giúp mình", "từ khóa", "chữ", "từ này"]
+        },
+        "weather": {
+            "": ["tại", "ở", "địa điểm", "từ", "trong", "ngoài", "trên", "dưới"]
         }
     }
 }	
