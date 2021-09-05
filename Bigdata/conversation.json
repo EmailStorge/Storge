@@ -497,6 +497,14 @@
             "len nhac",
             "khoi dong nhac",
             "quay len"
+        ],
+        "keyboard": [
+            "tốc độ gõ phím",
+            "test gõ phím",
+            "kiểm tra gõ phím",
+            "kiểm tra độ nhanh gõ phím",
+            "speed of gõ phím",
+            "gõ phím kiểm tra"
         ]
     },
     "__comment_4__": "Cái này là để tìm kiếm thuận tiện hơn, no modify please :)",
