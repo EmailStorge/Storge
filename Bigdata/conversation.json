@@ -1,5 +1,5 @@
 {
-    "__comment__": "Đây là để app nói chuyện với người dùng, thêm sửa là việc của a =))",
+    "__comment__": "Đây là để app nói chuyện với người dùng",
     "Chào hỏi": {
         "xin chào": [
             "Rất vui được gặp bạn",
@@ -353,7 +353,13 @@
         "bạn là ai": [
             "Mình là trợ lí ảo tưởng sức mạnh siu thông minh",
             "Mình là r o b o t ;-;"
-        ]
+        ],
+        "mà": [
+            "",
+            "?",
+            "Mình nghe nè?",
+            "Có chuyện gì?"
+            ]
     },
     "__comment_2__": "Lâu lâu ng ta hỏi m làm dc gì thì máy còn biết =))",
     "Năng lực": {
