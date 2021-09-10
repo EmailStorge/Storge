@@ -531,7 +531,16 @@
             "kiểm tra độ nhanh gõ phím",
             "speed of gõ phím",
             "gõ phím kiểm tra"
-        ]
+        ],
+        "maps": [
+            "tìm đường",
+            "gg maps",
+            "máp",
+            "map",
+            "maps",
+            "gg map",
+            "gg máp"
+            ]
     },
     "__comment_4__": "Cái này là để tìm kiếm thuận tiện hơn, no modify please :)",
     "Used_word": {
