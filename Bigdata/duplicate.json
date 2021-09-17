@@ -1,3 +1,71 @@
 {
   "__comment__": "Đây là api tìm từ khóa giống nhau"
+  "tukhoa": {
+	"bạn": [
+		"bạn",
+		"mày",
+		"thằng chó",
+		"thằng ml",
+		"thằng nhóc"
+	],
+	"mình": [
+		"tao",
+		"watashi",
+		"mình"
+		],
+	"chào": [
+		"xin chào",
+		"chào",
+		"chào bạn",
+		"lô",
+		"hế lô",
+		"ây zô",
+		"konichiwa",
+		"zô zô",
+		"xin chao",
+		"chao xin"
+		"chao xìn"
+		],
+	"cảm ơn": [
+		"cảm ơn",
+		"thanks you",
+		"thank",
+		"thanks",
+		"tks you",
+		"tks",
+		"tks nhiều",
+		"thanks nhiều"
+		],
+	"xin lỗi": [
+		"xin lỗi",
+		"xin lỗi nha",
+		"lỗi tại mình",
+		"lỗi của mình",
+		"lỗi cũng do mình",
+		"lỗi là mình làm",
+		"mình xin nhận lỗi",
+		"xin lỗi nhiều"
+		],
+	"bạn giỏi quá": [
+		"bạn giỏi quá",
+		"bạn giỏi thật đấy",
+		"bạn siêu giỏi luôn",
+		"bạn giỏi ghê",
+		"bạn giỏi lắm đấy",
+		"giỏi thiệt sự",
+		"giỏi kinh ha",
+		"sugoi",
+		"giỏi quá giỏi quá",
+		"tuyệt vời lắm bạn"
+		],
+	"giỏi quá": [
+		"giỏi ghê",
+		"giỏi lắm",
+		"giỏi quá",
+		"giỏi dữ",
+		"tuyệt vời",
+		"quá đỉnh",
+		"siêu phàm"
+		]
+	}
 }
