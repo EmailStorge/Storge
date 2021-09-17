@@ -46,9 +46,19 @@
 		"mình xin nhận lỗi",
 		"xin lỗi nhiều"
 		],
+	 "giỏi quá": [
+		"giỏi ghê",
+		"giỏi lắm",
+		"giỏi quá",
+		"giỏi dữ",
+		"tuyệt vời",
+		"quá đỉnh",
+		"siêu phàm"
+		],
 	"bạn giỏi quá": [
 		"bạn giỏi quá",
 		"bạn giỏi thật đấy",
+		"bạn thông minh",
 		"bạn siêu giỏi luôn",
 		"bạn giỏi ghê",
 		"bạn giỏi lắm đấy",
@@ -57,15 +67,6 @@
 		"sugoi",
 		"giỏi quá giỏi quá",
 		"tuyệt vời lắm bạn"
-		],
-	"giỏi quá": [
-		"giỏi ghê",
-		"giỏi lắm",
-		"giỏi quá",
-		"giỏi dữ",
-		"tuyệt vời",
-		"quá đỉnh",
-		"siêu phàm"
 		]
 	}
 }
