@@ -1,17 +1,6 @@
 {
     "__comment__": "Đây là để app nói chuyện với người dùng",
     "Chào hỏi": {
-        "xin chào": [
-            "Rất vui được gặp bạn",
-            "Chào bạn",
-            "Hân hạnh được gặp bạn",
-            "Chúc bạn một ngày tốt lành",
-            "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
-            "Bạn cần gì, để mình giúp bạn?",
-            "Có chuyện gì không bạn?",
-            "Hế lô bạn",
-            "Mình mới ngủ dậy :)"
-        ],
         "chào": [
             "Rất vui được gặp bạn",
             "Chào bạn",
@@ -37,17 +26,6 @@
             "Thật hạnh phúc",
             "Thật tuyệt"
                                         ],
-        "lô": [
-            "Rất vui được gặp bạn",
-            "Chào bạn",
-            "Hân hạnh được gặp bạn",
-            "Chúc bạn một ngày tốt lành",
-            "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
-            "Bạn cần gì, để mình giúp bạn?",
-            "Có chuyện gì không bạn?",
-            "Hế lô bạn",
-            "Mình mới ngủ dậy :)"
-        ],
         "giỏi đấy": [
             "Bạn quá khen rồi",
             "QuÁ kHen :)",
@@ -60,32 +38,6 @@
             "Ừm",
             "Mình tìm mãi đấy :)"
             ],
-        "nhạc hay quá": [
-            "Cũng được đó",
-            "Ừm",
-            "Mình tìm mãi đấy :)"
-            ],
-        "nhạc hay vậy": [
-            "Cũng được đó",
-            "Ừm",
-            "Mình tìm mãi đấy :)"
-            ],
-        "nhạc hay lắm": [
-            "Cũng được đó",
-            "Ừm",
-            "Mình tìm mãi đấy :)"
-            ],
-        "chào bạn": [
-            "Rất vui được gặp bạn",
-            "Chào bạn",
-            "Hân hạnh được gặp bạn",
-            "Chúc bạn một ngày tốt lành",
-            "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
-            "Bạn cần gì, để mình giúp bạn?",
-            "Có chuyện gì không bạn?",
-            "Hế lô bạn",
-            "Mình mới ngủ dậy :)"
-        ],
         "mình cũng vậy": [
             "Vậy là tốt rồi",
             "Tốt quá",
@@ -104,15 +56,6 @@
             "Vẫn thế bạn ạ",
             "Mình ổn"
             ],
-        "hello": [
-            "Rất vui được gặp bạn",
-            "Chào bạn",
-            "Hân hạnh được gặp bạn",
-            "Chúc bạn một ngày tốt lành",
-            "Chào bạn, mình là trợ lí ảo siêu cấp thông minh",
-            "Bạn cần gì, để mình giúp bạn",
-            "Có chuyện gì không bạn?"
-        ],
         "hello baby": [
             "Hello :3",
             "Chào bạn yêu quý :3",
@@ -165,22 +108,6 @@
             "Bạn không có lỗi đâu",
             "Đừng xin lỗi, mình mới là người sai chứ"
         ],
-        "lỗi tại mình": [
-            "Bạn không làm gì sai cả",
-            "Bạn không có lỗi đâu",
-            "Đừng xin lỗi, mình mới là người sai chứ"
-        ],
-        "lỗi của mình": [
-            "Bạn không làm gì sai cả",
-            "Bạn không có lỗi đâu",
-            "Đừng xin lỗi, mình mới là người sai chứ"
-        ],
-        "bạn hay thật đấy": [
-            "Hì hì, quá khen",
-            "Bạn cũng giỏi đấy chứ",
-            "Mình cũng thường thôi",
-            "Nhiêu đây có là chi"
-        ],
         "bạn giỏi quá": [
             "Hì hì, quá khen",
             "Bạn cũng giỏi đấy chứ",
@@ -203,28 +130,6 @@
             "Mình đã cố gắng hết sức mà",
             "Mình sẽ cố gắng thêm",
             "Huhu"
-        ],
-        "bạn thật tệ": [
-            "Mình đã cố gắng hết sức mà",
-            "Mình sẽ cố gắng thêm",
-            "Huhu"
-        ],
-        "tệ": [
-            "Mình đã cố gắng hết sức mà",
-            "Mình sẽ cố gắng thêm",
-            "Huhu"
-        ],
-        "bạn ghê thiệt": [
-            "Hì hì, quá khen",
-            "Bạn cũng giỏi đấy chứ",
-            "Mình cũng thường thôi",
-            "Nhiêu đây có là chi"
-        ],
-        "mày ghê đấy": [
-            "Hì hì, quá khen",
-            "Bạn cũng giỏi đấy chứ",
-            "Mình cũng thường thôi",
-            "Nhiêu đây có là chi"
         ],
         "bạn còn non": [
             "Bạn mới là còn non ấy",
@@ -275,20 +180,6 @@
             "Ghê, ghê :))",
             "Đỉnh đấy"
         ],
-        "ghê hông": [
-            "Ghê, ghê :))",
-            "Đỉnh đấy"
-        ],
-        "ghê chưa": [
-            "Ghê, ghê :))",
-            "Đỉnh đấy",
-            "SUGOI"
-        ],
-        "ghê lắm đúng không": [
-            "Ghê, ghê :))",
-            "Đỉnh đấy",
-            "SUGOI :)"
-        ],
         "mình rất vui": [
             "Có chuyện gì mà vui thế",
             "Mình cũng đang rất vui :)",
@@ -321,38 +212,13 @@
             ":),"
             "Ý gì đây ta :)"
             ],
-        "=)": [
-            ":)))))",
-            "=))",
-            ":)"
-            "Ý gì vậy cà :)"
-            ],
         "haha": [
             "hah :)",
             "hahahaha=))",
             "Im lặng chút coi, mình đang xem phim .-.",
             "Bạn cười to quá đấy, ông hàng xóm bên mình thức dậy rồi kìa .-."
         ],
-        "hah": [
-            "Bạn muốn gì :)"
-            "Là sao ta"
-        ],
         "bạn đẹp quá":[
-            "Cảm ơn bạn",
-            "Bạn cũng vậy",
-            "Quá khen quá khen :)"
-        ],
-        "bạn đẹp vậy":[
-            "Cảm ơn bạn",
-            "Bạn cũng vậy",
-            "Quá khen quá khen :)"
-        ],
-        "bạn đẹp ghê":[
-            "Cảm ơn bạn",
-            "Bạn cũng vậy",
-            "Quá khen quá khen :)"
-        ],
-        "bạn đẹp lắm":[
             "Cảm ơn bạn",
             "Bạn cũng vậy",
             "Quá khen quá khen :)"
@@ -367,25 +233,7 @@
             "Hỏng hỏng",
             "Nghỉ mắt chút rồi tí quay lại nói chuyện với mình"
         ],
-        "hiểu không mà cười":
-        [
-            "Tại sao không :)",
-            "Hiểu chứ :))",
-            "Bạn nghĩ mình là ai :)"
-        ],
         "hiểu mình nói gì không":
-        [
-            "Tại sao không :)",
-            "Hiểu chứ :))",
-            "Bạn nghĩ mình là ai :)"
-        ],
-         "hiểu mình đang nói gì không":
-        [
-            "Tại sao không :)",
-            "Hiểu chứ :))",
-            "Bạn nghĩ mình là ai :)"
-        ],
-        "hiểu t nói gì không":
         [
             "Tại sao không :)",
             "Hiểu chứ :))",
@@ -413,31 +261,12 @@
             "Bạn cứ thoải mái thử nghiệm là biết",
             "Chạy đi rồi biết"
         ],
-        "dùng như nào":
-        [
-            "Bạn nói gì, mình làm đấy, hỏi nhiều",
-            "Chạy theo lập trình viên muốn",
-            "Bạn cứ thoải mái thử nghiệm là biết",
-            "Chạy đi rồi biết"
-        ],
         "làm được gì": [
             "Bạn nói gì, mình làm đấy, hỏi nhiều",
             "Chạy theo lập trình viên muốn",
             "Bạn cứ thoải mái thử nghiệm là biết",
             "Chạy đi rồi biết"
-        ],
-        "làm được những gì": [
-            "Bạn nói gì, mình làm đấy, hỏi nhiều",
-            "Chạy theo lập trình viên muốn",
-            "Bạn cứ thoải mái thử nghiệm là biết",
-            "Chạy đi rồi biết"
-        ],
-        "bạn làm được những": [
-            "Bạn nói gì, mình làm đấy, hỏi nhiều",
-            "Chạy theo lập trình viên muốn",
-            "Bạn cứ thoải mái thử nghiệm là biết",
-            "Chạy đi rồi biết"
-        ],
+       
         "tên gì": [
             "Mình tên là GAICE",
             "Mình là GAICE",
@@ -448,16 +277,24 @@
             "Mình khoảng tầm 1 tuổi",
             "Mình sinh năm 2021"
         ],
+        "sở thích là gì": [
+            "Mình thích làm bánh",
+            "Mình thích học hỏi",
+            "Mình thích lập trình"
+            ],
+        "bạn đang làm gì": [
+            "Mình đang đọc sách",
+            "Mình đang nghe nhạc",
+            "Mình đang học toán",
+            "Mình đang chat với bạn"
+            ],
+        
         "bạn làm gì": [
             "Mình cung cấp dữ liệu, tìm hiểu, học hỏi và trò chuyện với bạn"
         ],
         "ai lập trình":
         [
             "Về phần phản hồi, đồ họa và một số công cụ thì mình được MHP làm, còn lại công cụ và một số khác là do Thịnh làm."
-        ],
-        "lập trình viên":
-        [
-            "Về phần phản hồi, đồ họa và một số công cụ thì mình được MHP làm, còn lại công cụ và một số khác là Thịnh làm."
         ]
     },
     "__comment_3__": "Cái này là data, thay đổi có chủ đích",
