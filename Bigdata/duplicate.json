@@ -6,7 +6,9 @@
 		"mày",
 		"thằng chó",
 		"thằng ml",
-		"thằng nhóc"
+		"thằng nhóc",
+		"nhóc",
+		"mi"
 	],
 	"quá": [
 		"rất",
@@ -27,6 +29,49 @@
 		"tên mình",
 		"tên của mình"
 		],
+	"nhiêu tuổi": [
+		"mấy tuổi",
+		"nhiêu tuổi",
+		"bao nhiêu tuổi",
+		"mấy mươi tuổi",
+		"tuổi"
+		],
+	  "khỏe không bạn": [
+		  "bạn khỏe không",
+		  "khỏe không",
+		  "khỏe không bạn",
+		  "khỏe chứ",
+		  "ổn không",
+		  "dạo này thế nào",
+		  "sức khỏe tốt không",
+		  "vẫn ổn chứ",
+		  "thế nào rồi",
+		  "còn tốt không"
+		  ],
+	  "mình cũng vậy": [
+		  "mình cũng thế",
+		  "mình vẫn vậy",
+		  "mình vẫn thế",
+		  "mình ổn",
+		  "mình vẫn ok",
+		  "mình vẫn tốt",
+		  "vẫn tốt"
+		  ],
+	  "hôm nay thế nào": [
+		  "hôm nay thế nào",
+		  "hôm nay vui không",
+		  "hôm nay ổn chứ",
+		  "hôm nay vẫn thế hả"
+		  ],
+	  "hello baby": [
+		  "chào cưng",
+		  "hi cưng",
+		  "hi baby",
+		  "lô baby",
+		  "lô cưng",
+		  "hi em yêu",
+		  "hi anh yêu"
+		  ]
 	"bạn giỏi quá": [
 		"bạn giỏi quá",
 		"bạn giỏi thật đấy",
