@@ -71,7 +71,7 @@
 		  "lô cưng",
 		  "hi em yêu",
 		  "hi anh yêu"
-		  ]
+		  ],
 	"bạn giỏi quá": [
 		"bạn giỏi quá",
 		"bạn giỏi thật đấy",
@@ -91,7 +91,7 @@
 		"giỏi dữ",
 		"giỏi kinh khủng"
 		],
-	  	"chào": [
+	  "chào": [
 		"xin chào",
 		"chào",
 		"chào bạn",
@@ -101,7 +101,7 @@
 		"konichiwa",
 		"zô zô",
 		"xin chao",
-		"chao xin"
+		"chao xin",
 		"chao xìn"
 		],
 	"cảm ơn": [
@@ -136,7 +136,7 @@
 		],
 	"bạn tên gì": [
 		"tên gì",
-		"tên là gì"
+		"tên là gì",
 		"tên thế nào",
 		"bạn tên gì",
 		"bạn tên là gì",
