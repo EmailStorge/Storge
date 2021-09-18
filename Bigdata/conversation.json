@@ -8,7 +8,9 @@
             "Chúc bạn một ngày tốt lành",
             "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
             "Bạn cần gì, để mình giúp bạn?",
-            "Có chuyện gì không bạn?"
+            "Có chuyện gì không bạn?",
+            "Hế lô bạn",
+            "Mình mới ngủ dậy :)"
         ],
         "chào": [
             "Rất vui được gặp bạn",
@@ -17,7 +19,9 @@
             "Chúc bạn một ngày tốt lành",
             "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
             "Bạn cần gì, để mình giúp bạn?",
-            "Có chuyện gì không bạn?"
+            "Có chuyện gì không bạn?",
+            "Hế lô bạn",
+            "Mình mới ngủ dậy :)"
         ],
         "vl": [
             "Chửi tục là không tốt nhé bạn",
@@ -40,13 +44,16 @@
             "Chúc bạn một ngày tốt lành",
             "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
             "Bạn cần gì, để mình giúp bạn?",
-            "Có chuyện gì không bạn?"
+            "Có chuyện gì không bạn?",
+            "Hế lô bạn",
+            "Mình mới ngủ dậy :)"
         ],
         "giỏi đấy": [
             "Bạn quá khen rồi",
             "QuÁ kHen :)",
             "Mình mà, não phải to hơn bạn chứ :)",
-            "Đương nhiên, mình có kho dữ liệu khổng lồ mà"
+            "Đương nhiên, mình có kho dữ liệu khổng lồ mà",
+            "Hihi, mình có não đàng hoàng nhé :)"
             ],
         "nhạc hay ghê": [
             "Cũng được đó",
@@ -75,8 +82,16 @@
             "Chúc bạn một ngày tốt lành",
             "Chào bạn, mình là trợ lí ảo siêu cấp thông minh :)",
             "Bạn cần gì, để mình giúp bạn?",
-            "Có chuyện gì không bạn?"
+            "Có chuyện gì không bạn?",
+            "Hế lô bạn",
+            "Mình mới ngủ dậy :)"
         ],
+        "mình cũng vậy": [
+            "Vậy là tốt rồi",
+            "Tốt quá",
+            "Tốt rồi",
+            "OK luôn bạn"
+            ],
         "khỏe không bạn": [
             "Mình khỏe, còn bạn?",
             "Khỏe như bao ngày",
@@ -104,6 +119,18 @@
             "Trợ lí ảo siêu cấp thông minh của bạn đây :3",
             "Có chuyện gì hông :3"
         ],
+        "ngu": [
+            "Sao bạn lại nói thế",
+            "Bạn muốn nói gì?",
+            "Bạn kì lạ thật đấy",
+            "Kì cục quá"
+            ],
+        "bạn ngu": [
+            "Mình rất thông minh mà :(",
+            "Mình thông minh lắm chứ bộ :(",
+            "Bạn kì cục thật :(",
+            "Giận luôn, hứ"
+            ]
         "hola": [
             "HALO"
         ],
@@ -160,6 +187,12 @@
             "Mình cũng thường thôi",
             "Nhiêu đây có là chi"
         ],
+        "giỏi hơn": [
+            "Mình sẽ cố gắng thêm",
+            "Mình đã rất cố gắng rồi mà",
+            "Mình đã cố gắng hết sức",
+            ":("
+            ]
         "bạn giỏi thật": [
             "Hì hì, quá khen",
             "Bạn cũng giỏi đấy chứ",
@@ -214,6 +247,12 @@
             "Khỏe như bao ngày",
             "Rất vui"
         ],
+        "kì cục": [
+            "Kì cục là kì cục thế nào?",
+            "Mình không hiểu :)",
+            "Ngôn ngữ của bạn thật lạ lùng đấy",
+            "Là sao ấy nhỉ?"
+            ]
         "buồn":
         [
             "Sao lại buồn thế?",
@@ -223,12 +262,14 @@
         "mình bị câm": [
             "Ôi bạn tôi :))",
             "Tội nghiệp bạn tôi :))",
-            "Về chữa đi rồi nói chuyện với mình :))"
+            "Về chữa đi rồi nói chuyện với mình :))",
+            "HÁ HÁ :)
         ],
         "bạn thấy sao": [
             "Ừm, cũng được",
             "Bạn giỏi thật đấy :)",
-            "Giá như mình được như bạn"
+            "Giá như mình được như bạn",
+            "Hay lắm, cố gắng hơn nữa nhé"
         ],
         "ghê không": [
             "Ghê, ghê :))",
@@ -240,15 +281,18 @@
         ],
         "ghê chưa": [
             "Ghê, ghê :))",
-            "Đỉnh đấy"
+            "Đỉnh đấy",
+            "SUGOI"
         ],
         "ghê lắm đúng không": [
             "Ghê, ghê :))",
-            "Đỉnh đấy"
+            "Đỉnh đấy",
+            "SUGOI :)"
         ],
         "mình rất vui": [
             "Có chuyện gì mà vui thế",
-            "Mình cũng đang rất vui :)"
+            "Mình cũng đang rất vui :)",
+            "OH vậy hả"
         ],
         "mình rất buồn": [
             "Sao vậy??",
@@ -274,13 +318,13 @@
         ":)": [
             ":)))))",
             "=))",
-            "Lmao",
+            ":),
             "Ý gì đây ta :)"
             ],
         "=)": [
             ":)))))",
             "=))",
-            "dank' wa'",
+            ":)
             "Ý gì vậy cà :)"
             ],
         "haha": [
@@ -290,8 +334,8 @@
             "Bạn cười to quá đấy, ông hàng xóm bên mình thức dậy rồi kìa .-."
         ],
         "hah": [
-            "bủh bủh lmao :)",
-            "dảk wa'"
+            "Bạn muốn gì :)"
+            "Là sao ta"
         ],
         "bạn đẹp quá":[
             "Cảm ơn bạn",
@@ -315,11 +359,13 @@
         ],
         "đau đầu": [
             "Khổ thân .-.",
-            "Đã có paradol =))"
+            "Đã có paradol =))",
+            "Hãy nghỉ ngơi :)"
         ],
         "đau mắt": [
             "Bạn lại xem bậy bạ à =))",
-            "Hỏng hỏng"
+            "Hỏng hỏng",
+            "Nghỉ mắt chút rồi tí quay lại nói chuyện với mình"
         ],
         "hiểu không mà cười":
         [
