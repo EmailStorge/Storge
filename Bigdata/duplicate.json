@@ -14,7 +14,8 @@
 		"rất",
 		"dữ",
 		"kinh",
-		"ghê"
+		"ghê",
+		"hay thiệt"
 		],
 	
 	"mình": [
@@ -162,6 +163,59 @@
 		 "giỏi hơn",
 		 "thông minh hơn",
 		 "tốt hơn nữa"
-		 ]
+		 ],
+	  "bạn là ai": [
+		  "ai vậy",
+		  "who are you",
+		  "bạn là ai",
+		  "bạn từ đâu đến",
+		  "bạn là robot à",
+		  "bạn là người máy à"
+		  ],
+	  "ai lập trình": [
+		  "ai lập trình",
+		  "được tạo bởi ai",
+		  "ai sáng lập",
+		  "ai tạo ra",
+		  "ai nghiên cứu ra",
+		  "ai nghiên cứu",
+		  "ai phát triển"
+		  ],
+	  "mà": [
+		  "mà này",
+		  "mà nhé",
+		  "mà nói này",
+		  "mà",
+		  "ê ê",
+		  "mình nói này"
+		  ],
+	  "dùng thế nào": [
+		  "dùng làm sao",
+		  "dùng như thế nào",
+		  "dùng như thế này hả",
+		  "how to use",
+		  "sử dụng thế nào",
+		  "làm sao để dùng",
+		  "làm sao để sử dụng",
+		  "làm sao để chạy chương trình",
+		  "làm được gì",
+		  "làm được những gì"
+		  ],
+	  "sở thích là gì": [
+		  "bạn thích gì",
+		  "bạn thích cái gì",
+		  "sở thích của bạn",
+		  "sở thích là gì",
+		  "bạn thích nhất cái gì",
+		  "bạn yêu thích gì",
+		  "bạn yêu thích làm gì"
+		  ],
+	  "bạn đang làm gì": [
+		  "bạn đang làm gì thế",
+		  "đang làm gì đấy",
+		  "làm gì đấy",
+		  "làm gì vậy bạn",
+		  "làm gì thế bạn
+		  ]
 	}
 }
