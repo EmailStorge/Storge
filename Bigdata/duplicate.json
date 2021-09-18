@@ -13,7 +13,20 @@
 		"watashi",
 		"mình"
 		],
-	"chào": [
+	"bạn giỏi quá": [
+		"bạn giỏi quá",
+		"bạn giỏi thật đấy",
+		"bạn thông minh",
+		"bạn siêu giỏi luôn",
+		"bạn giỏi ghê",
+		"bạn giỏi lắm đấy",
+		"giỏi thiệt sự",
+		"giỏi kinh ha",
+		"sugoi",
+		"giỏi quá giỏi quá",
+		"tuyệt vời lắm bạn"
+		],
+	  	"chào": [
 		"xin chào",
 		"chào",
 		"chào bạn",
@@ -76,19 +89,6 @@
 		 "giỏi hơn",
 		 "thông minh hơn",
 		 "tốt hơn nữa"
-		 ],
-	"bạn giỏi quá": [
-		"bạn giỏi quá",
-		"bạn giỏi thật đấy",
-		"bạn thông minh",
-		"bạn siêu giỏi luôn",
-		"bạn giỏi ghê",
-		"bạn giỏi lắm đấy",
-		"giỏi thiệt sự",
-		"giỏi kinh ha",
-		"sugoi",
-		"giỏi quá giỏi quá",
-		"tuyệt vời lắm bạn"
-		]
+		 ]
 	}
 }
